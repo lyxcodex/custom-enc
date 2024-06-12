@@ -1,6 +1,6 @@
 ### INTRODUCTION 
 This program was created just because I thought, how to run? and what materials must be installed for this script??, you only need to install base64 and to run this program just with python3 enc.py and import the first file and output file
-![IMG_20240612_104157](_res/IMG_20240612_104157.jpg)
+![IMG_20240612_104157](IMG_20240612_104157.jpg)
 
 ### HOW TO FIX BUG?
 Example : `cHJpbnQoImhpIikK
